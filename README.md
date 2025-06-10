@@ -4,11 +4,11 @@ This project focuses on building a predictive model to estimate the **annual med
 
 ## 👨‍💻 Student Information
 
-- **Name:** Shehjad Shabbir Sayyad  
+- **Name:** Vedant Suhas Kale  
 - **College:** Pimpri Chinchwad University  
 - **Department:** CSE (AI & ML)  
-- **Email:** shehjad.sayyad05@gmail.com  
-- **AICTE Student ID:** STU673700317ab281731657777
+- **Email:** vedantskale3@gmail.com  
+- **AICTE Student ID:** STU678b41f7addfe1737179639
 
 ---
 
