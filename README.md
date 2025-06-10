@@ -6,7 +6,7 @@ This project focuses on building a predictive model to estimate the **annual med
 
 - **Name:** Vedant Suhas Kale  
 - **College:** Pimpri Chinchwad University  
-- **Department:** CSE (AI & ML)  
+- **Department:** Computer Science  
 - **Email:** vedantskale3@gmail.com  
 - **AICTE Student ID:** STU678b41f7addfe1737179639
 
